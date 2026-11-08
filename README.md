@@ -8,7 +8,7 @@ and others to provide all the elements of a daw as individual modules that can l
 The idea is eventually they may be able to be cross translated and loaded into multiple points to Link
 various elements together as all the components overall are like a distributed daw that can also be used
 a bit like say reason rack in being able to load into another daw, or fl studios vsti instance but
-for each element rather than the entire daw.
+for each element rather than the entire daw.  The initial idea is a sequencer that can act seperately from say channel rack but server the same functions, and have the ability to integrate with Channel rack to allow multiple channel racks to operate independently of one another while still being synergistic.
 
 This one is the begining of a vsti host which is still very basic and daws sequencers will vastly outperform
 this version of the plugin. I'd like to continue to add onto the sequencer and give it more functionality. 
