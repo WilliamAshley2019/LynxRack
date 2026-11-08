@@ -26,7 +26,9 @@ Overall I hit the first milestone for this project getting audio playback and VS
 
 This project is a continuation of building from Lemon Studio and Lynx Studio as well as previous plugins I've put together. It is likely to continue borrowing from past plugins. Reskinning is very likely before I put the project to testing for in a few days.   
 
-The Project can SQLITE to help with database management.
+The Project can SQLITE to help with database management.  Since I heavily use FL Studio a lot of the project and compatabilities are first tested with FL Studio integration in mind however it should work in other daws.
+
+This is still very early in development and is super basic.
 
 
 # Lynx Rack — sequencer module (JUCE 8.0.12)
