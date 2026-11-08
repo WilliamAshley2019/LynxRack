@@ -20,8 +20,13 @@ in the host daw or in internal mode and play is triggered.
 
 TO DO add some "piano roll scripting capabilities to tie in python scripting for the plugin like Alpha Sampler.
 
+TO DO reskin in alpha theme.
 
-Overall I hit the mile 
+Overall I hit the first milestone for this project getting audio playback and VST3 loading into the plugin.
+
+This project is a continuation of building from Lemon Studio and Lynx Studio as well as previous plugins I've put together. It is likely to continue borrowing from past plugins. Reskinning is very likely before I put the project to testing for in a few days.   
+
+The Project can SQLITE to help with database management.
 
 
 # Lynx Rack — sequencer module (JUCE 8.0.12)
