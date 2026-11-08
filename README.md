@@ -30,6 +30,7 @@ The Project can SQLITE to help with database management.  Since I heavily use FL
 
 This is still very early in development and is super basic.
 
+The test modules are included in this upload but will likely be stripped from the project in future uploads.
 
 # Lynx Rack — sequencer module (JUCE 8.0.12)
 
