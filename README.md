@@ -11,6 +11,10 @@ a bit like say reason rack in being able to load into another daw, or fl studios
 for each element rather than the entire daw.  The initial idea is a sequencer that can act seperately from say channel rack but server the same functions, and have the ability to integrate with Channel rack to allow multiple channel racks to operate independently of one another while still being synergistic. This allows seperate tempo maps
 and any other function to act independent of the main channel rack yet still by slaved to it.
 
+TODO One major benefit with preset saves that include all state data for midi automation etc.. is that that particular save state can be loaded into any other daw with all midi and automation information intact allow seemless transfer of sequence data
+
+TODO additionally once modular instantiation exists in mirror cloning GUI interfaces one could add data from any point such as another daw and for it to be mirrored in the other instance of the lynx rack, so that it can have many faces and single engine, this may have uses especially where there is networking ongoing via something like midi 2.0 where there is data over network OR where daws may be networked and that being multiple daws that can send data to the engine host point from their frontends.
+
 This one is the begining of a vsti host which is still very basic and daws sequencers will vastly outperform
 this version of the plugin. I'd like to continue to add onto the sequencer and give it more functionality. 
 
