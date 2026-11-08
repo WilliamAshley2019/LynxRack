@@ -1,0 +1,48 @@
+{
+  "Name": "Lynx Rack",
+  "Version": "1.1.0",
+  "Factory Info": {
+    "Vendor": "William Ashley Music",
+    "URL": "williamashley.music",
+    "E-Mail": "contact@williamashley.music",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF019182FAEB57414D414C79526B",
+      "Category": "Audio Module Class",
+      "Name": "Lynx Rack",
+      "Vendor": "William Ashley Music",
+      "Version": "1.1.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD57414D414C79526B",
+      "Category": "Component Controller Class",
+      "Name": "Lynx Rack",
+      "Vendor": "William Ashley Music",
+      "Version": "1.1.0",
+      "SDKVersion": "VST 3.8.0",
+      "Sub Categories": [
+        "Instrument",
+        "Synth",
+      ],
+      "Class Flags": 2,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
