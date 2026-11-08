@@ -1,3 +1,29 @@
+This is an early prototype for a "vsti channel rack"
+
+The idea here is to make a VSTI that can act as both a vsti host and a sequencer.
+The idea is to give sequencing capabilities to any vst that is loaded into it.
+The idea was initially to provide one channel per instance, however it has 16 channels this may change
+as there is a larger development plan to create individual modular elements such as Lemonade, Lynx Rack
+and others to provide all the elements of a daw as individual modules that can load into other daws.
+The idea is eventually they may be able to be cross translated and loaded into multiple points to Link
+various elements together as all the components overall are like a distributed daw that can also be used
+a bit like say reason rack in being able to load into another daw, or fl studios vsti instance but
+for each element rather than the entire daw.
+
+This one is the begining of a vsti host which is still very basic and daws sequencers will vastly outperform
+this version of the plugin. I'd like to continue to add onto the sequencer and give it more functionality. 
+
+The basic tests for loading the vsti are working as well as the basic sequencer 
+
+TODO fix the always on when synced to host play function, should only be on when triggered by a midi note
+in the host daw or in internal mode and play is triggered.
+
+TO DO add some "piano roll scripting capabilities to tie in python scripting for the plugin like Alpha Sampler.
+
+
+Overall I hit the mile 
+
+
 # Lynx Rack — sequencer module (JUCE 8.0.12)
 
 A VSTi that hosts VST3 plugins in a 16-channel rack and sequences them with step buttons and a piano roll.
